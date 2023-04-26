@@ -1,6 +1,6 @@
 ### IOPEN 公告 - 更多公告
 
-![測試](image/test.png)
+![測試](img/langchain+chatglm.png)
 
 1. 公告標題
 2. 公告簡介
